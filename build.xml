@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="mps-transformation-awscdk" default="generate">
+
+    <!--
+        MPS headless generator build file.
+
+        MPS location resolution: -Dmps_home (gradle wrapper), then MPS_HOME env, then /opt/MPS-2022.2.
+        Input:  languages/AWSCDK.sandbox/models/AWSCDK.sandbox.mps
+        Output: languages/AWSCDK.sandbox/source_gen/AWSCDK/sandbox/result.yaml
+    -->
+
+    <property environment="env"/>
+    <condition property="mps.home" value="${mps_home}">
+        <isset property="mps_home"/>
+    </condition>
+    <condition property="mps.home" value="${env.MPS_HOME}" else="/opt/MPS-2022.2">
+        <isset property="env.MPS_HOME"/>
+    </condition>
+    <property name="project.dir" value="${basedir}"/>
+
+    <path id="mps.generator.classpath">
+        <fileset dir="${mps.home}/lib" includes="*.jar"/>
+        <fileset dir="${mps.home}/plugins/generator/lib"
+                 includes="*.jar" erroronmissingdir="false"/>
+        <fileset dir="${mps.home}/plugins/mps-generator/lib"
+                 includes="*.jar" erroronmissingdir="false"/>
+        <fileset dir="${mps.home}/plugins/jetbrains.mps.build.ant/lib"
+                 includes="*.jar" erroronmissingdir="false"/>
+    </path>
+
+    <taskdef name="mps-generate"
+             classname="jetbrains.mps.build.ant.generation.GenerateTask"
+             classpathref="mps.generator.classpath"/>
+
+    <target name="generate">
+        <mps-generate
+                project="${project.dir}"
+                logLevel="warn"
+                fork="true"
+                forkJvmArgs="-Djava.awt.headless=true -Xmx1g">
+            <module file="${project.dir}/languages/AWSCDK.sandbox/AWSCDK.sandbox.msd"/>
+        </mps-generate>
+    </target>
+
+</project>

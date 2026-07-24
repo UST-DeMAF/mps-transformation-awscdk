@@ -1,0 +1,20 @@
+# build
+.gradle
+artifacts
+build
+tmp
+
+# MPS
+classes_gen
+source_gen
+source_gen.caches
+test_gen
+test_gen.caches
+*.iws
+build.properties
+.mps-caches
+
+# misc
+*.log
+.DS_Store
+.idea

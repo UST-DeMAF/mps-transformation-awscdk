@@ -38,6 +38,8 @@
                 logLevel="warn"
                 fork="true"
                 forkJvmArgs="-Djava.awt.headless=true -Xmx1g">
+            <module file="${project.dir}/languages/EDMM/EDMM.mpl"/>
+            <module file="${project.dir}/languages/AWSCDK/AWSCDK.mpl"/>
             <module file="${project.dir}/languages/AWSCDK.sandbox/AWSCDK.sandbox.msd"/>
         </mps-generate>
     </target>

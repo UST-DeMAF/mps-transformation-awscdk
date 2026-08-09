@@ -20,6 +20,8 @@
 
     <path id="mps.generator.classpath">
         <fileset dir="${mps.home}/lib" includes="*.jar"/>
+        <fileset dir="${mps.home}/lib/ant/lib" includes="*.jar"
+                 erroronmissingdir="false"/>
         <fileset dir="${mps.home}/plugins/generator/lib"
                  includes="*.jar" erroronmissingdir="false"/>
         <fileset dir="${mps.home}/plugins/mps-generator/lib"
@@ -34,13 +36,24 @@
 
     <target name="generate">
         <mps-generate
-                project="${project.dir}"
+                mpsHome="${mps.home}"
                 logLevel="warn"
-                fork="true"
-                forkJvmArgs="-Djava.awt.headless=true -Xmx1g">
-            <module file="${project.dir}/languages/EDMM/EDMM.mpl"/>
-            <module file="${project.dir}/languages/AWSCDK/AWSCDK.mpl"/>
-            <module file="${project.dir}/languages/AWSCDK.sandbox/AWSCDK.sandbox.msd"/>
+                fork="true">
+            <jvmArgs>
+                <arg value="-Djava.awt.headless=true"/>
+                <arg value="-Xmx2g"/>
+                <!-- keep MPS scratch files out of the (read-only) MPS install -->
+                <arg value="-Didea.system.path=${project.dir}/build/mps-system"/>
+                <arg value="-Didea.log.path=${project.dir}/build/mps-system/log"/>
+            </jvmArgs>
+            <repository>
+                <modules dir="${project.dir}/languages"/>
+            </repository>
+            <chunk>
+                <module file="${project.dir}/languages/EDMM/EDMM.mpl"/>
+                <module file="${project.dir}/languages/AWSCDK/AWSCDK.mpl"/>
+                <module file="${project.dir}/languages/AWSCDK.sandbox/AWSCDK.sandbox.msd"/>
+            </chunk>
         </mps-generate>
     </target>
 

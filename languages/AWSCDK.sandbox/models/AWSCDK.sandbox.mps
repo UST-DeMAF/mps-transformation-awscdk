@@ -137,7 +137,7 @@
       <node concept="2uokq5" id="5udW6y$JD$V" role="2uolob">
         <property role="2uokk2" value="MyVPC" />
         <property role="2uokeG" value="AWS::EC2::VPC" />
-      </node>
+      <node concept="2uok62" id="sbVpcCidr" role="2uomXq"><property role="2uok1v" value="CidrBlock" /><property role="2uolX_" value="10.0.0.0/16" /></node></node>
       <node concept="2uokq5" id="6$KgP9W861l" role="2uolob">
         <property role="2uokk2" value="MyFunction" />
         <property role="2uokeG" value="AWS::Lambda::Function" />
@@ -165,7 +165,7 @@
           <property role="2uok1v" value="VpcId" />
           <ref role="3B8hCG" node="5udW6y$JD$V" />
         </node>
-      </node>
+      <node concept="2uvc4s" id="sbFnSubnet" role="2uomXq"><property role="2uok1v" value="SubnetId" /><ref role="3B8hCG" node="5_qI153HQ2F" /></node></node>
       <node concept="2uokq5" id="6$KgP9W860x" role="2uolob">
         <property role="2uokk2" value="MyBucket" />
         <property role="2uokeG" value="AWS::S3::Bucket" />

@@ -279,7 +279,7 @@
                 </node>
               </node>
             </node>
-          </node>
+          </node><node concept="VmU4a" id="nwProp" role="VmU4F"><property role="VmU49" value="dummy_key" /><property role="VmU4f" value="dummy_value" /><node concept="1WS0z7" id="nwpLoop" role="lGtFl"><node concept="3JmXsc" id="nwpLoop1" role="3Jn$fo"><node concept="3clFbS" id="nwpLoop2" role="2VODD2"><node concept="3clFbF" id="nwpLoop3" role="3cqZAp"><node concept="2OqwBi" id="nwpLoop4" role="3clFbG"><node concept="30H73N" id="nwpLoop5" role="2Oq$k0" /><node concept="2Rf3mk" id="nwpLoop6" role="2OqNvi"><node concept="1xMEDy" id="nwpLoop7" role="1xVPHs"><node concept="chp4Y" id="nwpLoop8" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmSrefP" resolve="ReferenceProperty" /></node></node></node></node></node></node></node></node><node concept="17Uvod" id="nwpKey" role="lGtFl"><property role="2qtEX9" value="key" /><property role="P4ACc" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130305/2620860285162130306" /><node concept="3zFVjK" id="nwpKeyF" role="3zH0cK"><node concept="3clFbS" id="nwpKeyF1" role="2VODD2"><node concept="3clFbF" id="nwpKeyF2" role="3cqZAp"><node concept="2OqwBi" id="nwpKeyF3" role="3clFbG"><node concept="30H73N" id="nwpKeyF4" role="2Oq$k0" /><node concept="3TrcHB" id="nwpKeyF5" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oYq" resolve="key" /></node></node></node></node></node></node><node concept="17Uvod" id="nwpVal" role="lGtFl"><property role="2qtEX9" value="value" /><property role="P4ACc" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130305/2620860285162130308" /><node concept="3zFVjK" id="nwpValF" role="3zH0cK"><node concept="3clFbS" id="nwpValF1" role="2VODD2"><node concept="3clFbF" id="nwpValF2" role="3cqZAp"><node concept="2OqwBi" id="nwpValF3" role="3clFbG"><node concept="30H73N" id="nwpValF4" role="2Oq$k0" /><node concept="2qgKlT" id="nwpValF5" role="2OqNvi"><ref role="37wK5l" to="q5yv:nrkDescV" resolve="descriptiveValue" /></node></node></node></node></node></node><node concept="1W57fq" id="nwpIf" role="lGtFl"><node concept="3IZrLx" id="nwpIf1" role="3IZSJc"><node concept="3clFbS" id="nwpIf2" role="2VODD2"><node concept="3clFbF" id="nwpIf3" role="3cqZAp"><node concept="2OqwBi" id="nwpIf4" role="3clFbG"><node concept="30H73N" id="nwpIf5" role="2Oq$k0" /><node concept="2qgKlT" id="nwpIf6" role="2OqNvi"><ref role="37wK5l" to="q5yv:nrkIsNet" resolve="isNetworkRef" /></node></node></node></node></node></node></node>
           <node concept="17Uvod" id="U5dA2ROkau" role="lGtFl">
             <property role="2qtEX9" value="name" />
             <property role="P4ACc" value="ceab5195-25ea-4f22-9b92-103b95ca8c0c/1169194658468/1169194664001" />
@@ -330,7 +330,7 @@
       <ref role="2rTdP9" to="xm5l:2pCNWmS2o_0" resolve="CFResources" />
       <ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" />
     </node>
-  <node concept="2rT7sh" id="cdkLabelDb" role="2rTMjI"><property role="TrG5h" value="databaseType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelSw" role="2rTMjI"><property role="TrG5h" value="softwareType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelSt" role="2rTMjI"><property role="TrG5h" value="storageType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelCo" role="2rTMjI"><property role="TrG5h" value="containerType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelK8" role="2rTMjI"><property role="TrG5h" value="k8sType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelBr" role="2rTMjI"><property role="TrG5h" value="brokerType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelPaas" role="2rTMjI"><property role="TrG5h" value="paasType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelSaas" role="2rTMjI"><property role="TrG5h" value="saasType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node></node>
+  <node concept="2rT7sh" id="cdkLabelDb" role="2rTMjI"><property role="TrG5h" value="databaseType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelSw" role="2rTMjI"><property role="TrG5h" value="softwareType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelSt" role="2rTMjI"><property role="TrG5h" value="storageType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelCo" role="2rTMjI"><property role="TrG5h" value="containerType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelK8" role="2rTMjI"><property role="TrG5h" value="k8sType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelBr" role="2rTMjI"><property role="TrG5h" value="brokerType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelPaas" role="2rTMjI"><property role="TrG5h" value="paasType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node><node concept="2rT7sh" id="cdkLabelCompute" role="2rTMjI"><property role="TrG5h" value="computeType" /><ref role="2rTdP9" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /><ref role="2rZz_L" to="9rr7:2hvaCGv18IT" resolve="ComponentType" /></node></node>
   <node concept="VmU7M" id="7uhLk$97QUR">
     <node concept="VmU5f" id="cdkAwsComp" role="VmU7O"><property role="TrG5h" value="aws" /><ref role="VmU5e" node="cdkCloudProv" resolve="CloudProvider" /></node><node concept="VmU5f" id="6y5$CtPpLOG" role="VmU7O">
       <property role="TrG5h" value="Component" />
@@ -354,166 +354,7 @@
                   <node concept="1bVj0M" id="U5dA2ROOza" role="23t8la">
                     <node concept="3clFbS" id="U5dA2ROOzb" role="1bW5cS">
                       <node concept="3clFbF" id="U5dA2ROOX3" role="3cqZAp">
-                        <node concept="22lmx$" id="U5dA2RQdtI" role="3clFbG">
-                          <node concept="2OqwBi" id="U5dA2RQgux" role="3uHU7w">
-                            <node concept="2OqwBi" id="U5dA2RQeKl" role="2Oq$k0">
-                              <node concept="37vLTw" id="U5dA2RQe9b" role="2Oq$k0">
-                                <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                              </node>
-                              <node concept="3TrcHB" id="U5dA2RQf$S" role="2OqNvi">
-                                <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                              </node>
-                            </node>
-                            <node concept="liA8E" id="U5dA2RQi9h" role="2OqNvi">
-                              <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                              <node concept="Xl_RD" id="U5dA2RQjiw" role="37wK5m">
-                                <property role="Xl_RC" value="AWS::ECS::TaskDefinition" />
-                              </node>
-                            </node>
-                          </node>
-                          <node concept="22lmx$" id="U5dA2RQ4vP" role="3uHU7B">
-                            <node concept="22lmx$" id="U5dA2RPVH7" role="3uHU7B">
-                              <node concept="22lmx$" id="U5dA2RPL5D" role="3uHU7B">
-                                <node concept="22lmx$" id="U5dA2RPAR7" role="3uHU7B">
-                                  <node concept="22lmx$" id="U5dA2RPqfd" role="3uHU7B">
-                                    <node concept="22lmx$" id="U5dA2RPfJD" role="3uHU7B">
-                                      <node concept="22lmx$" id="U5dA2ROYh9" role="3uHU7B">
-                                          <node concept="2OqwBi" id="U5dA2ROR9y" role="3uHU7B">
-                                            <node concept="2OqwBi" id="U5dA2ROPry" role="2Oq$k0">
-                                              <node concept="37vLTw" id="U5dA2ROOX2" role="2Oq$k0">
-                                                <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                                              </node>
-                                              <node concept="3TrcHB" id="U5dA2ROQ2y" role="2OqNvi">
-                                                <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                              </node>
-                                            </node>
-                                            <node concept="liA8E" id="U5dA2ROT09" role="2OqNvi">
-                                              <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                              <node concept="Xl_RD" id="U5dA2ROTM_" role="37wK5m">
-                                                <property role="Xl_RC" value="AWS::Lambda::Function" />
-                                              </node>
-                                            </node>
-                                          </node>
-                                          <node concept="2OqwBi" id="U5dA2RP1pz" role="3uHU7w">
-                                            <node concept="2OqwBi" id="U5dA2ROZpm" role="2Oq$k0">
-                                              <node concept="37vLTw" id="U5dA2ROYR0" role="2Oq$k0">
-                                                <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                                              </node>
-                                              <node concept="3TrcHB" id="U5dA2RP010" role="2OqNvi">
-                                                <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                              </node>
-                                            </node>
-                                            <node concept="liA8E" id="U5dA2RP3gm" role="2OqNvi">
-                                              <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                              <node concept="Xl_RD" id="U5dA2RP3gr" role="37wK5m">
-                                                <property role="Xl_RC" value="AWS::EC2::Instance" />
-                                              </node>
-                                            </node>
-                                          </node>
-                                        </node>
-                                        <node concept="2OqwBi" id="U5dA2RPjs7" role="3uHU7w">
-                                        <node concept="2OqwBi" id="U5dA2RPh0O" role="2Oq$k0">
-                                          <node concept="37vLTw" id="U5dA2RPgo4" role="2Oq$k0">
-                                            <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                                          </node>
-                                          <node concept="3TrcHB" id="U5dA2RPiq5" role="2OqNvi">
-                                            <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                          </node>
-                                        </node>
-                                        <node concept="liA8E" id="U5dA2RPkvL" role="2OqNvi">
-                                          <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                          <node concept="Xl_RD" id="U5dA2RPl2P" role="37wK5m">
-                                            <property role="Xl_RC" value="AWS::ApiGateway::RestApi" />
-                                          </node>
-                                        </node>
-                                      </node>
-                                    </node>
-                                    <node concept="2OqwBi" id="U5dA2RPuSp" role="3uHU7w">
-                                      <node concept="2OqwBi" id="U5dA2RPsG3" role="2Oq$k0">
-                                        <node concept="37vLTw" id="U5dA2RPs45" role="2Oq$k0">
-                                          <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                                        </node>
-                                        <node concept="3TrcHB" id="U5dA2RPtX7" role="2OqNvi">
-                                          <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                        </node>
-                                      </node>
-                                      <node concept="liA8E" id="U5dA2RPw19" role="2OqNvi">
-                                        <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                        <node concept="Xl_RD" id="U5dA2RPw1e" role="37wK5m">
-                                          <property role="Xl_RC" value="AWS::ApiGatewayV2::Api" />
-                                        </node>
-                                      </node>
-                                    </node>
-                                  </node>
-                                  <node concept="2OqwBi" id="U5dA2RPE1W" role="3uHU7w">
-                                    <node concept="2OqwBi" id="U5dA2RPCfh" role="2Oq$k0">
-                                      <node concept="37vLTw" id="U5dA2RPBvM" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                                      </node>
-                                      <node concept="3TrcHB" id="U5dA2RPD5W" role="2OqNvi">
-                                        <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                      </node>
-                                    </node>
-                                    <node concept="liA8E" id="U5dA2RPFxs" role="2OqNvi">
-                                      <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                      <node concept="Xl_RD" id="U5dA2RPFxx" role="37wK5m">
-                                        <property role="Xl_RC" value="AWS::ElasticLoadBalancingV2::LoadBalancer" />
-                                      </node>
-                                    </node>
-                                  </node>
-                                </node>
-                                <node concept="2OqwBi" id="U5dA2RPPCZ" role="3uHU7w">
-                                  <node concept="2OqwBi" id="U5dA2RPNZy" role="2Oq$k0">
-                                    <node concept="37vLTw" id="U5dA2RPNlx" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                                    </node>
-                                    <node concept="3TrcHB" id="U5dA2RPOFo" role="2OqNvi">
-                                      <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                    </node>
-                                  </node>
-                                  <node concept="liA8E" id="U5dA2RPR3y" role="2OqNvi">
-                                    <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                    <node concept="Xl_RD" id="U5dA2RPREU" role="37wK5m">
-                                      <property role="Xl_RC" value="AWS::CloudFront::Distribution" />
-                                    </node>
-                                  </node>
-                                </node>
-                              </node>
-                              <node concept="2OqwBi" id="U5dA2RPYFW" role="3uHU7w">
-                                <node concept="2OqwBi" id="U5dA2RPX0K" role="2Oq$k0">
-                                  <node concept="37vLTw" id="U5dA2RPWok" role="2Oq$k0">
-                                    <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                                  </node>
-                                  <node concept="3TrcHB" id="U5dA2RPXIw" role="2OqNvi">
-                                    <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                  </node>
-                                </node>
-                                <node concept="liA8E" id="U5dA2RPZP1" role="2OqNvi">
-                                  <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                  <node concept="Xl_RD" id="U5dA2RPZP6" role="37wK5m">
-                                    <property role="Xl_RC" value="AWS::StepFunctions::StateMachine" />
-                                  </node>
-                                </node>
-                              </node>
-                            </node>
-                            <node concept="2OqwBi" id="U5dA2RQ7EF" role="3uHU7w">
-                              <node concept="2OqwBi" id="U5dA2RQ5XK" role="2Oq$k0">
-                                <node concept="37vLTw" id="U5dA2RQ5cj" role="2Oq$k0">
-                                  <ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" />
-                                </node>
-                                <node concept="3TrcHB" id="U5dA2RQ6Gx" role="2OqNvi">
-                                  <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                </node>
-                              </node>
-                              <node concept="liA8E" id="U5dA2RQ8Rv" role="2OqNvi">
-                                <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                <node concept="Xl_RD" id="U5dA2RQ9wb" role="37wK5m">
-                                  <property role="Xl_RC" value="AWS::ECS::Service" />
-                                </node>
-                              </node>
-                            </node>
-                          </node>
-                        </node>
+                        <node concept="22lmx$" id="dvfor9" role="3clFbG"><node concept="22lmx$" id="dvfLor8" role="3uHU7B"><node concept="22lmx$" id="dvfLLor7" role="3uHU7B"><node concept="22lmx$" id="dvfLLLor6" role="3uHU7B"><node concept="22lmx$" id="dvfLLLLor5" role="3uHU7B"><node concept="22lmx$" id="dvfLLLLLor4" role="3uHU7B"><node concept="22lmx$" id="dvfLLLLLLor3" role="3uHU7B"><node concept="22lmx$" id="dvfLLLLLLLor2" role="3uHU7B"><node concept="2OqwBi" id="dvfLLLLLLLLt0" role="3uHU7B"><node concept="2OqwBi" id="dvfLLLLLLLLt0O" role="2Oq$k0"><node concept="37vLTw" id="dvfLLLLLLLLt0V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvfLLLLLLLLt0P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvfLLLLLLLLt0M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="dvfLLLLLLLLt0L" role="37wK5m"><property role="Xl_RC" value="AWS::ECS::TaskDefinition" /></node></node></node><node concept="2OqwBi" id="dvfLLLLLLLt1" role="3uHU7w"><node concept="2OqwBi" id="dvfLLLLLLLt1O" role="2Oq$k0"><node concept="37vLTw" id="dvfLLLLLLLt1V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvfLLLLLLLt1P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvfLLLLLLLt1M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="dvfLLLLLLLt1L" role="37wK5m"><property role="Xl_RC" value="AWS::ApiGateway::RestApi" /></node></node></node></node><node concept="2OqwBi" id="dvfLLLLLLt2" role="3uHU7w"><node concept="2OqwBi" id="dvfLLLLLLt2O" role="2Oq$k0"><node concept="37vLTw" id="dvfLLLLLLt2V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvfLLLLLLt2P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvfLLLLLLt2M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="dvfLLLLLLt2L" role="37wK5m"><property role="Xl_RC" value="AWS::ApiGatewayV2::Api" /></node></node></node></node><node concept="2OqwBi" id="dvfLLLLLt3" role="3uHU7w"><node concept="2OqwBi" id="dvfLLLLLt3O" role="2Oq$k0"><node concept="37vLTw" id="dvfLLLLLt3V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvfLLLLLt3P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvfLLLLLt3M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="dvfLLLLLt3L" role="37wK5m"><property role="Xl_RC" value="AWS::ElasticLoadBalancingV2::LoadBalancer" /></node></node></node></node><node concept="2OqwBi" id="dvfLLLLt4" role="3uHU7w"><node concept="2OqwBi" id="dvfLLLLt4O" role="2Oq$k0"><node concept="37vLTw" id="dvfLLLLt4V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvfLLLLt4P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvfLLLLt4M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="dvfLLLLt4L" role="37wK5m"><property role="Xl_RC" value="AWS::CloudFront::Distribution" /></node></node></node></node><node concept="2OqwBi" id="dvfLLLt5" role="3uHU7w"><node concept="2OqwBi" id="dvfLLLt5O" role="2Oq$k0"><node concept="37vLTw" id="dvfLLLt5V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvfLLLt5P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvfLLLt5M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="dvfLLLt5L" role="37wK5m"><property role="Xl_RC" value="AWS::StepFunctions::StateMachine" /></node></node></node></node><node concept="2OqwBi" id="dvfLLt6" role="3uHU7w"><node concept="2OqwBi" id="dvfLLt6O" role="2Oq$k0"><node concept="37vLTw" id="dvfLLt6V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvfLLt6P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvfLLt6M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="dvfLLt6L" role="37wK5m"><property role="Xl_RC" value="AWS::ECS::Service" /></node></node></node></node><node concept="2OqwBi" id="dvfLt7" role="3uHU7w"><node concept="2OqwBi" id="dvfLt7O" role="2Oq$k0"><node concept="37vLTw" id="dvfLt7V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvfLt7P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvfLt7M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="dvfLt7L" role="37wK5m"><property role="Xl_RC" value="AWS::Cognito::" /></node></node></node></node><node concept="2OqwBi" id="dvft8" role="3uHU7w"><node concept="2OqwBi" id="dvft8O" role="2Oq$k0"><node concept="37vLTw" id="dvft8V" role="2Oq$k0"><ref role="3cqZAo" node="U5dA2ROOzc" resolve="it" /></node><node concept="3TrcHB" id="dvft8P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="dvft8M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="dvft8L" role="37wK5m"><property role="Xl_RC" value="AWS::SES::" /></node></node></node></node>
                       </node>
                     </node>
                     <node concept="Rh6nW" id="U5dA2ROOzc" role="1bW2Oz">
@@ -539,11 +380,11 @@
     <node concept="VmU5f" id="6y5$CtPpK9v" role="VmU7O">
       <property role="TrG5h" value="c_container" />
       <ref role="VmU5e" node="7uhLk$97QV5" resolve="ContainerPlatform" />
-      <node concept="2b32R4" id="cdcocs" role="lGtFl"><ref role="2rW$FS" node="cdkLabel001" resolve="componentForResource" /><node concept="3JmXsc" id="cdcoq" role="2P8S$"><node concept="3clFbS" id="cdcoqs" role="2VODD2"><node concept="3clFbF" id="cdcoqf" role="3cqZAp"><node concept="2OqwBi" id="cdcow" role="3clFbG"><node concept="2OqwBi" id="cdcod" role="2Oq$k0"><node concept="30H73N" id="cdcon" role="2Oq$k0" /><node concept="2Rf3mk" id="cdcor" role="2OqNvi"><node concept="1xMEDy" id="cdcoxm" role="1xVPHs"><node concept="chp4Y" id="cdcocp" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /></node></node></node></node><node concept="3zZkjj" id="cdcowh" role="2OqNvi"><node concept="1bVj0M" id="cdcocl" role="23t8la"><node concept="3clFbS" id="cdcobo" role="1bW5cS"><node concept="3clFbF" id="cdcobf" role="3cqZAp"><node concept="22lmx$" id="cdcoor4" role="3clFbG"><node concept="22lmx$" id="cdcoor3" role="3uHU7B"><node concept="22lmx$" id="cdcoor1" role="3uHU7B"><node concept="2OqwBi" id="cdcob0" role="3uHU7B"><node concept="2OqwBi" id="cdcob0t" role="2Oq$k0"><node concept="37vLTw" id="cdcob0v" role="2Oq$k0"><ref role="3cqZAo" node="cdcoIt" resolve="it" /></node><node concept="3TrcHB" id="cdcob0p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cdcob0m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cdcob0l" role="37wK5m"><property role="Xl_RC" value="AWS::ECS::Cluster" /></node></node></node><node concept="2OqwBi" id="cdcob1" role="3uHU7w"><node concept="2OqwBi" id="cdcob1t" role="2Oq$k0"><node concept="37vLTw" id="cdcob1v" role="2Oq$k0"><ref role="3cqZAo" node="cdcoIt" resolve="it" /></node><node concept="3TrcHB" id="cdcob1p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cdcob1m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="cdcob1l" role="37wK5m"><property role="Xl_RC" value="AWS::EKS::" /></node></node></node></node><node concept="2OqwBi" id="cdcob3" role="3uHU7w"><node concept="2OqwBi" id="cdcob3t" role="2Oq$k0"><node concept="37vLTw" id="cdcob3v" role="2Oq$k0"><ref role="3cqZAo" node="cdcoIt" resolve="it" /></node><node concept="3TrcHB" id="cdcob3p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cdcob3m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cdcob3l" role="37wK5m"><property role="Xl_RC" value="AWS::EC2::VPC" /></node></node></node></node><node concept="2OqwBi" id="cdcob4" role="3uHU7w"><node concept="2OqwBi" id="cdcob4t" role="2Oq$k0"><node concept="37vLTw" id="cdcob4v" role="2Oq$k0"><ref role="3cqZAo" node="cdcoIt" resolve="it" /></node><node concept="3TrcHB" id="cdcob4p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cdcob4m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cdcob4l" role="37wK5m"><property role="Xl_RC" value="AWS::EC2::Subnet" /></node></node></node></node></node></node><node concept="Rh6nW" id="cdcoIt" role="1bW2Oz"><property role="TrG5h" value="it" /><node concept="2jxLKc" id="cdcoty" role="1tU5fm" /></node></node></node></node></node></node></node></node></node>
+      <node concept="2b32R4" id="cdcocs" role="lGtFl"><ref role="2rW$FS" node="cdkLabel001" resolve="componentForResource" /><node concept="3JmXsc" id="cdcoq" role="2P8S$"><node concept="3clFbS" id="cdcoqs" role="2VODD2"><node concept="3clFbF" id="cdcoqf" role="3cqZAp"><node concept="2OqwBi" id="cdcow" role="3clFbG"><node concept="2OqwBi" id="cdcod" role="2Oq$k0"><node concept="30H73N" id="cdcon" role="2Oq$k0" /><node concept="2Rf3mk" id="cdcor" role="2OqNvi"><node concept="1xMEDy" id="cdcoxm" role="1xVPHs"><node concept="chp4Y" id="cdcocp" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /></node></node></node></node><node concept="3zZkjj" id="cdcowh" role="2OqNvi"><node concept="1bVj0M" id="cdcocl" role="23t8la"><node concept="3clFbS" id="cdcobo" role="1bW5cS"><node concept="3clFbF" id="cdcobf" role="3cqZAp"><node concept="22lmx$" id="coDFor2" role="3clFbG"><node concept="2OqwBi" id="coDFLt0" role="3uHU7B"><node concept="2OqwBi" id="coDFLt0O" role="2Oq$k0"><node concept="37vLTw" id="coDFLt0V" role="2Oq$k0"><ref role="3cqZAo" node="cdcoIt" resolve="it" /></node><node concept="3TrcHB" id="coDFLt0P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="coDFLt0M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="coDFLt0L" role="37wK5m"><property role="Xl_RC" value="AWS::ECS::Cluster" /></node></node></node><node concept="2OqwBi" id="coDFt1" role="3uHU7w"><node concept="2OqwBi" id="coDFt1O" role="2Oq$k0"><node concept="37vLTw" id="coDFt1V" role="2Oq$k0"><ref role="3cqZAo" node="cdcoIt" resolve="it" /></node><node concept="3TrcHB" id="coDFt1P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="coDFt1M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="coDFt1L" role="37wK5m"><property role="Xl_RC" value="AWS::EKS::" /></node></node></node></node></node></node><node concept="Rh6nW" id="cdcoIt" role="1bW2Oz"><property role="TrG5h" value="it" /><node concept="2jxLKc" id="cdcoty" role="1tU5fm" /></node></node></node></node></node></node></node></node></node>
     <node concept="VmU5f" id="cdkCPlat" role="VmU7O">
       <property role="TrG5h" value="c_platform" />
       <ref role="VmU5e" node="cdkPlatform" resolve="Platform" />
-      <node concept="2b32R4" id="cpl0002" role="lGtFl"><ref role="2rW$FS" node="cdkLabel001" resolve="componentForResource" /><node concept="3JmXsc" id="cpl0003" role="2P8S$"><node concept="3clFbS" id="cpl0004" role="2VODD2"><node concept="3clFbF" id="cpl0005" role="3cqZAp"><node concept="2OqwBi" id="cpl0006" role="3clFbG"><node concept="2OqwBi" id="cpl0007" role="2Oq$k0"><node concept="30H73N" id="cpl0008" role="2Oq$k0" /><node concept="2Rf3mk" id="cpl0009" role="2OqNvi"><node concept="1xMEDy" id="cpl0010" role="1xVPHs"><node concept="chp4Y" id="cpl0011" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /></node></node></node></node><node concept="3zZkjj" id="cpl0012" role="2OqNvi"><node concept="1bVj0M" id="cpl0013" role="23t8la"><node concept="3clFbS" id="cpl0014" role="1bW5cS"><node concept="3clFbF" id="cpl0015" role="3cqZAp"><node concept="22lmx$" id="cplFor4" role="3clFbG"><node concept="22lmx$" id="cplFor3" role="3uHU7B"><node concept="22lmx$" id="cplFor2" role="3uHU7B"><node concept="22lmx$" id="cplFor1" role="3uHU7B"><node concept="2OqwBi" id="cplFb0" role="3uHU7B"><node concept="2OqwBi" id="cplFb0o" role="2Oq$k0"><node concept="37vLTw" id="cplFb0v" role="2Oq$k0"><ref role="3cqZAo" node="cpl0050" resolve="it" /></node><node concept="3TrcHB" id="cplFb0p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cplFb0m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cplFb0l" role="37wK5m"><property role="Xl_RC" value="AWS::ElasticBeanstalk::Environment" /></node></node></node><node concept="2OqwBi" id="cplFb1" role="3uHU7w"><node concept="2OqwBi" id="cplFb1o" role="2Oq$k0"><node concept="37vLTw" id="cplFb1v" role="2Oq$k0"><ref role="3cqZAo" node="cpl0050" resolve="it" /></node><node concept="3TrcHB" id="cplFb1p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cplFb1m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cplFb1l" role="37wK5m"><property role="Xl_RC" value="AWS::AppRunner::Service" /></node></node></node></node><node concept="2OqwBi" id="cplFb2" role="3uHU7w"><node concept="2OqwBi" id="cplFb2o" role="2Oq$k0"><node concept="37vLTw" id="cplFb2v" role="2Oq$k0"><ref role="3cqZAo" node="cpl0050" resolve="it" /></node><node concept="3TrcHB" id="cplFb2p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cplFb2m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="cplFb2l" role="37wK5m"><property role="Xl_RC" value="AWS::Amplify::" /></node></node></node></node><node concept="2OqwBi" id="cplFb3" role="3uHU7w"><node concept="2OqwBi" id="cplFb3o" role="2Oq$k0"><node concept="37vLTw" id="cplFb3v" role="2Oq$k0"><ref role="3cqZAo" node="cpl0050" resolve="it" /></node><node concept="3TrcHB" id="cplFb3p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cplFb3m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="cplFb3l" role="37wK5m"><property role="Xl_RC" value="AWS::Cognito::" /></node></node></node></node><node concept="2OqwBi" id="cplFb4" role="3uHU7w"><node concept="2OqwBi" id="cplFb4o" role="2Oq$k0"><node concept="37vLTw" id="cplFb4v" role="2Oq$k0"><ref role="3cqZAo" node="cpl0050" resolve="it" /></node><node concept="3TrcHB" id="cplFb4p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cplFb4m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="cplFb4l" role="37wK5m"><property role="Xl_RC" value="AWS::SES::" /></node></node></node></node></node></node><node concept="Rh6nW" id="cpl0050" role="1bW2Oz"><property role="TrG5h" value="it" /><node concept="2jxLKc" id="cpl0051" role="1tU5fm" /></node></node></node></node></node></node></node></node></node>
+      <node concept="2b32R4" id="cpl0002" role="lGtFl"><ref role="2rW$FS" node="cdkLabel001" resolve="componentForResource" /><node concept="3JmXsc" id="cpl0003" role="2P8S$"><node concept="3clFbS" id="cpl0004" role="2VODD2"><node concept="3clFbF" id="cpl0005" role="3cqZAp"><node concept="2OqwBi" id="cpl0006" role="3clFbG"><node concept="2OqwBi" id="cpl0007" role="2Oq$k0"><node concept="30H73N" id="cpl0008" role="2Oq$k0" /><node concept="2Rf3mk" id="cpl0009" role="2OqNvi"><node concept="1xMEDy" id="cpl0010" role="1xVPHs"><node concept="chp4Y" id="cpl0011" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /></node></node></node></node><node concept="3zZkjj" id="cpl0012" role="2OqNvi"><node concept="1bVj0M" id="cpl0013" role="23t8la"><node concept="3clFbS" id="cpl0014" role="1bW5cS"><node concept="3clFbF" id="cpl0015" role="3cqZAp"><node concept="22lmx$" id="cplFor2" role="3clFbG"><node concept="22lmx$" id="cplFor1" role="3uHU7B"><node concept="2OqwBi" id="cplFb0" role="3uHU7B"><node concept="2OqwBi" id="cplFb0o" role="2Oq$k0"><node concept="37vLTw" id="cplFb0v" role="2Oq$k0"><ref role="3cqZAo" node="cpl0050" resolve="it" /></node><node concept="3TrcHB" id="cplFb0p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cplFb0m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cplFb0l" role="37wK5m"><property role="Xl_RC" value="AWS::ElasticBeanstalk::Environment" /></node></node></node><node concept="2OqwBi" id="cplFb1" role="3uHU7w"><node concept="2OqwBi" id="cplFb1o" role="2Oq$k0"><node concept="37vLTw" id="cplFb1v" role="2Oq$k0"><ref role="3cqZAo" node="cpl0050" resolve="it" /></node><node concept="3TrcHB" id="cplFb1p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cplFb1m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cplFb1l" role="37wK5m"><property role="Xl_RC" value="AWS::AppRunner::Service" /></node></node></node></node><node concept="2OqwBi" id="cplFb2" role="3uHU7w"><node concept="2OqwBi" id="cplFb2o" role="2Oq$k0"><node concept="37vLTw" id="cplFb2v" role="2Oq$k0"><ref role="3cqZAo" node="cpl0050" resolve="it" /></node><node concept="3TrcHB" id="cplFb2p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cplFb2m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="cplFb2l" role="37wK5m"><property role="Xl_RC" value="AWS::Amplify::" /></node></node></node></node></node></node><node concept="Rh6nW" id="cpl0050" role="1bW2Oz"><property role="TrG5h" value="it" /><node concept="2jxLKc" id="cpl0051" role="1tU5fm" /></node></node></node></node></node></node></node></node></node><node concept="VmU5f" id="c_compute" role="VmU7O"><property role="TrG5h" value="c_compute" /><ref role="VmU5e" node="cdkCompute" resolve="Compute" /><node concept="2b32R4" id="cmpDrv2" role="lGtFl"><ref role="2rW$FS" node="cdkLabel001" resolve="componentForResource" /><node concept="3JmXsc" id="cmpDrv3" role="2P8S$"><node concept="3clFbS" id="cmpDrv4" role="2VODD2"><node concept="3clFbF" id="cmpDrv5" role="3cqZAp"><node concept="2OqwBi" id="cmpDrv6" role="3clFbG"><node concept="2OqwBi" id="cmpDrv7" role="2Oq$k0"><node concept="30H73N" id="cmpDrv8" role="2Oq$k0" /><node concept="2Rf3mk" id="cmpDrv9" role="2OqNvi"><node concept="1xMEDy" id="cmpDrv10" role="1xVPHs"><node concept="chp4Y" id="cmpDrv11" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /></node></node></node></node><node concept="3zZkjj" id="cmpDrv12" role="2OqNvi"><node concept="1bVj0M" id="cmpDrv13" role="23t8la"><node concept="3clFbS" id="cmpDrv14" role="1bW5cS"><node concept="3clFbF" id="cmpDrv15" role="3cqZAp"><node concept="22lmx$" id="cmpDFor2" role="3clFbG"><node concept="2OqwBi" id="cmpDFLt0" role="3uHU7B"><node concept="2OqwBi" id="cmpDFLt0O" role="2Oq$k0"><node concept="37vLTw" id="cmpDFLt0V" role="2Oq$k0"><ref role="3cqZAo" node="cmpIt" resolve="it" /></node><node concept="3TrcHB" id="cmpDFLt0P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cmpDFLt0M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cmpDFLt0L" role="37wK5m"><property role="Xl_RC" value="AWS::EC2::Instance" /></node></node></node><node concept="2OqwBi" id="cmpDFt1" role="3uHU7w"><node concept="2OqwBi" id="cmpDFt1O" role="2Oq$k0"><node concept="37vLTw" id="cmpDFt1V" role="2Oq$k0"><ref role="3cqZAo" node="cmpIt" resolve="it" /></node><node concept="3TrcHB" id="cmpDFt1P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cmpDFt1M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cmpDFt1L" role="37wK5m"><property role="Xl_RC" value="AWS::Lambda::Function" /></node></node></node></node></node></node><node concept="Rh6nW" id="cmpIt" role="1bW2Oz"><property role="TrG5h" value="it" /><node concept="2jxLKc" id="cmpItT" role="1tU5fm" /></node></node></node></node></node></node></node></node></node>
     <node concept="VmU4M" id="cdkBase001" role="VmU7O">
       <property role="TrG5h" value="BaseType" />
     </node>
@@ -571,7 +412,7 @@
       <property role="TrG5h" value="MessageBroker" />
       <ref role="3hVscs" node="7uhLk$97QV1" resolve="SoftwareApplication" />
     <node concept="2ZBi8u" id="ctAbsLblBr" role="lGtFl"><ref role="2rW$FS" node="cdkLabelBr" resolve="brokerType" /></node></node>
-    <node concept="VmU4M" id="cdkCloudProv" role="VmU7O"><property role="TrG5h" value="CloudProvider" /><ref role="3hVscs" node="cdkBase001" resolve="BaseType" /></node><node concept="VmU4M" id="cdkPlatform" role="VmU7O"><property role="TrG5h" value="Platform" /><ref role="3hVscs" node="cdkBase001" resolve="BaseType" /></node><node concept="VmU4M" id="cdkPaaS" role="VmU7O"><property role="TrG5h" value="PaaS" /><ref role="3hVscs" node="cdkPlatform" resolve="Platform" /><node concept="2ZBi8u" id="ctAbsLblPaas" role="lGtFl"><ref role="2rW$FS" node="cdkLabelPaas" resolve="paasType" /></node></node><node concept="VmU4M" id="cdkSaaS" role="VmU7O"><property role="TrG5h" value="SaaS" /><ref role="3hVscs" node="cdkPlatform" resolve="Platform" /><node concept="2ZBi8u" id="ctAbsLblSaas" role="lGtFl"><ref role="2rW$FS" node="cdkLabelSaas" resolve="saasType" /></node></node><node concept="VmU4R" id="cdkDepOn001" role="VmU7O">
+    <node concept="VmU4M" id="cdkCloudProv" role="VmU7O"><property role="TrG5h" value="CloudProvider" /><ref role="3hVscs" node="cdkBase001" resolve="BaseType" /></node><node concept="VmU4M" id="cdkPlatform" role="VmU7O"><property role="TrG5h" value="Platform" /><ref role="3hVscs" node="cdkBase001" resolve="BaseType" /></node><node concept="VmU4M" id="cdkPaaS" role="VmU7O"><property role="TrG5h" value="PaaS" /><ref role="3hVscs" node="cdkPlatform" resolve="Platform" /><node concept="2ZBi8u" id="ctAbsLblPaas" role="lGtFl"><ref role="2rW$FS" node="cdkLabelPaas" resolve="paasType" /></node></node><node concept="VmU4M" id="cdkCompute" role="VmU7O"><property role="TrG5h" value="Compute" /><ref role="3hVscs" node="cdkBase001" resolve="BaseType" /><node concept="2ZBi8u" id="ctAbsLblCompute" role="lGtFl"><ref role="2rW$FS" node="cdkLabelCompute" resolve="computeType" /></node></node><node concept="VmU4R" id="cdkDepOn001" role="VmU7O">
       <property role="TrG5h" value="DependsOn" />
     </node>
     <node concept="VmU4R" id="dkHostOn001" role="VmU7O">
@@ -930,148 +771,7 @@
         <node concept="3IZrLx" id="amitIfFn_sw" role="3IZSJc">
           <node concept="3clFbS" id="amitIfSL_sw" role="2VODD2">
             <node concept="3clFbF" id="amitIfST_sw" role="3cqZAp">
-              <node concept="22lmx$" id="ctFsw0009" role="3clFbG">
-                <node concept="22lmx$" id="ctFsw0010" role="3uHU7B">
-                  <node concept="22lmx$" id="ctFsw0011" role="3uHU7B">
-                    <node concept="22lmx$" id="ctFsw0012" role="3uHU7B">
-                      <node concept="22lmx$" id="ctFsw0013" role="3uHU7B">
-                        <node concept="22lmx$" id="ctFsw0014" role="3uHU7B">
-                          <node concept="22lmx$" id="ctFsw0015" role="3uHU7B">
-                            <node concept="22lmx$" id="ctFsw0017" role="3uHU7B">
-                                <node concept="2OqwBi" id="ctFsw0018" role="3uHU7B">
-                                  <node concept="2OqwBi" id="ctFsw0019" role="2Oq$k0">
-                                    <node concept="30H73N" id="ctFsw0020" role="2Oq$k0" />
-                                    <node concept="3TrcHB" id="ctFsw0021" role="2OqNvi">
-                                      <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                    </node>
-                                  </node>
-                                  <node concept="liA8E" id="ctFsw0022" role="2OqNvi">
-                                    <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                    <node concept="Xl_RD" id="ctFsw0023" role="37wK5m">
-                                      <property role="Xl_RC" value="AWS::Lambda::Function" />
-                                    </node>
-                                  </node>
-                                </node>
-                                <node concept="2OqwBi" id="ctFsw0024" role="3uHU7w">
-                                  <node concept="2OqwBi" id="ctFsw0025" role="2Oq$k0">
-                                    <node concept="30H73N" id="ctFsw0026" role="2Oq$k0" />
-                                    <node concept="3TrcHB" id="ctFsw0027" role="2OqNvi">
-                                      <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                    </node>
-                                  </node>
-                                  <node concept="liA8E" id="ctFsw0028" role="2OqNvi">
-                                    <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                    <node concept="Xl_RD" id="ctFsw0029" role="37wK5m">
-                                      <property role="Xl_RC" value="AWS::EC2::Instance" />
-                                    </node>
-                                  </node>
-                                </node>
-                              </node>
-                              <node concept="2OqwBi" id="ctFsw0036" role="3uHU7w">
-                              <node concept="2OqwBi" id="ctFsw0037" role="2Oq$k0">
-                                <node concept="30H73N" id="ctFsw0038" role="2Oq$k0" />
-                                <node concept="3TrcHB" id="ctFsw0039" role="2OqNvi">
-                                  <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                                </node>
-                              </node>
-                              <node concept="liA8E" id="ctFsw0040" role="2OqNvi">
-                                <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                <node concept="Xl_RD" id="ctFsw0041" role="37wK5m">
-                                  <property role="Xl_RC" value="AWS::ApiGateway::RestApi" />
-                                </node>
-                              </node>
-                            </node>
-                          </node>
-                          <node concept="2OqwBi" id="ctFsw0042" role="3uHU7w">
-                            <node concept="2OqwBi" id="ctFsw0043" role="2Oq$k0">
-                              <node concept="30H73N" id="ctFsw0044" role="2Oq$k0" />
-                              <node concept="3TrcHB" id="ctFsw0045" role="2OqNvi">
-                                <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                              </node>
-                            </node>
-                            <node concept="liA8E" id="ctFsw0046" role="2OqNvi">
-                              <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                              <node concept="Xl_RD" id="ctFsw0047" role="37wK5m">
-                                <property role="Xl_RC" value="AWS::ApiGatewayV2::Api" />
-                              </node>
-                            </node>
-                          </node>
-                        </node>
-                        <node concept="2OqwBi" id="ctFsw0048" role="3uHU7w">
-                          <node concept="2OqwBi" id="ctFsw0049" role="2Oq$k0">
-                            <node concept="30H73N" id="ctFsw0050" role="2Oq$k0" />
-                            <node concept="3TrcHB" id="ctFsw0051" role="2OqNvi">
-                              <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                            </node>
-                          </node>
-                          <node concept="liA8E" id="ctFsw0052" role="2OqNvi">
-                            <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                            <node concept="Xl_RD" id="ctFsw0053" role="37wK5m">
-                              <property role="Xl_RC" value="AWS::ElasticLoadBalancingV2::LoadBalancer" />
-                            </node>
-                          </node>
-                        </node>
-                      </node>
-                      <node concept="2OqwBi" id="ctFsw0054" role="3uHU7w">
-                        <node concept="2OqwBi" id="ctFsw0055" role="2Oq$k0">
-                          <node concept="30H73N" id="ctFsw0056" role="2Oq$k0" />
-                          <node concept="3TrcHB" id="ctFsw0057" role="2OqNvi">
-                            <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                          </node>
-                        </node>
-                        <node concept="liA8E" id="ctFsw0058" role="2OqNvi">
-                          <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                          <node concept="Xl_RD" id="ctFsw0059" role="37wK5m">
-                            <property role="Xl_RC" value="AWS::CloudFront::Distribution" />
-                          </node>
-                        </node>
-                      </node>
-                    </node>
-                    <node concept="2OqwBi" id="ctFsw0060" role="3uHU7w">
-                      <node concept="2OqwBi" id="ctFsw0061" role="2Oq$k0">
-                        <node concept="30H73N" id="ctFsw0062" role="2Oq$k0" />
-                        <node concept="3TrcHB" id="ctFsw0063" role="2OqNvi">
-                          <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                        </node>
-                      </node>
-                      <node concept="liA8E" id="ctFsw0064" role="2OqNvi">
-                        <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                        <node concept="Xl_RD" id="ctFsw0065" role="37wK5m">
-                          <property role="Xl_RC" value="AWS::StepFunctions::StateMachine" />
-                        </node>
-                      </node>
-                    </node>
-                  </node>
-                  <node concept="2OqwBi" id="ctFsw0066" role="3uHU7w">
-                    <node concept="2OqwBi" id="ctFsw0067" role="2Oq$k0">
-                      <node concept="30H73N" id="ctFsw0068" role="2Oq$k0" />
-                      <node concept="3TrcHB" id="ctFsw0069" role="2OqNvi">
-                        <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                      </node>
-                    </node>
-                    <node concept="liA8E" id="ctFsw0070" role="2OqNvi">
-                      <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                      <node concept="Xl_RD" id="ctFsw0071" role="37wK5m">
-                        <property role="Xl_RC" value="AWS::ECS::Service" />
-                      </node>
-                    </node>
-                  </node>
-                </node>
-                <node concept="2OqwBi" id="ctFsw0072" role="3uHU7w">
-                  <node concept="2OqwBi" id="ctFsw0073" role="2Oq$k0">
-                    <node concept="30H73N" id="ctFsw0074" role="2Oq$k0" />
-                    <node concept="3TrcHB" id="ctFsw0075" role="2OqNvi">
-                      <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                    </node>
-                  </node>
-                  <node concept="liA8E" id="ctFsw0076" role="2OqNvi">
-                    <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                    <node concept="Xl_RD" id="ctFsw0077" role="37wK5m">
-                      <property role="Xl_RC" value="AWS::ECS::TaskDefinition" />
-                    </node>
-                  </node>
-                </node>
-              </node>
+              <node concept="22lmx$" id="swfor9" role="3clFbG"><node concept="22lmx$" id="swfLor8" role="3uHU7B"><node concept="22lmx$" id="swfLLor7" role="3uHU7B"><node concept="22lmx$" id="swfLLLor6" role="3uHU7B"><node concept="22lmx$" id="swfLLLLor5" role="3uHU7B"><node concept="22lmx$" id="swfLLLLLor4" role="3uHU7B"><node concept="22lmx$" id="swfLLLLLLor3" role="3uHU7B"><node concept="22lmx$" id="swfLLLLLLLor2" role="3uHU7B"><node concept="2OqwBi" id="swfLLLLLLLLt0" role="3uHU7B"><node concept="2OqwBi" id="swfLLLLLLLLt0O" role="2Oq$k0"><node concept="30H73N" id="swfLLLLLLLLt0N" role="2Oq$k0" /><node concept="3TrcHB" id="swfLLLLLLLLt0P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swfLLLLLLLLt0M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="swfLLLLLLLLt0L" role="37wK5m"><property role="Xl_RC" value="AWS::ApiGateway::RestApi" /></node></node></node><node concept="2OqwBi" id="swfLLLLLLLt1" role="3uHU7w"><node concept="2OqwBi" id="swfLLLLLLLt1O" role="2Oq$k0"><node concept="30H73N" id="swfLLLLLLLt1N" role="2Oq$k0" /><node concept="3TrcHB" id="swfLLLLLLLt1P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swfLLLLLLLt1M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="swfLLLLLLLt1L" role="37wK5m"><property role="Xl_RC" value="AWS::ApiGatewayV2::Api" /></node></node></node></node><node concept="2OqwBi" id="swfLLLLLLt2" role="3uHU7w"><node concept="2OqwBi" id="swfLLLLLLt2O" role="2Oq$k0"><node concept="30H73N" id="swfLLLLLLt2N" role="2Oq$k0" /><node concept="3TrcHB" id="swfLLLLLLt2P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swfLLLLLLt2M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="swfLLLLLLt2L" role="37wK5m"><property role="Xl_RC" value="AWS::ElasticLoadBalancingV2::LoadBalancer" /></node></node></node></node><node concept="2OqwBi" id="swfLLLLLt3" role="3uHU7w"><node concept="2OqwBi" id="swfLLLLLt3O" role="2Oq$k0"><node concept="30H73N" id="swfLLLLLt3N" role="2Oq$k0" /><node concept="3TrcHB" id="swfLLLLLt3P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swfLLLLLt3M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="swfLLLLLt3L" role="37wK5m"><property role="Xl_RC" value="AWS::CloudFront::Distribution" /></node></node></node></node><node concept="2OqwBi" id="swfLLLLt4" role="3uHU7w"><node concept="2OqwBi" id="swfLLLLt4O" role="2Oq$k0"><node concept="30H73N" id="swfLLLLt4N" role="2Oq$k0" /><node concept="3TrcHB" id="swfLLLLt4P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swfLLLLt4M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="swfLLLLt4L" role="37wK5m"><property role="Xl_RC" value="AWS::StepFunctions::StateMachine" /></node></node></node></node><node concept="2OqwBi" id="swfLLLt5" role="3uHU7w"><node concept="2OqwBi" id="swfLLLt5O" role="2Oq$k0"><node concept="30H73N" id="swfLLLt5N" role="2Oq$k0" /><node concept="3TrcHB" id="swfLLLt5P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swfLLLt5M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="swfLLLt5L" role="37wK5m"><property role="Xl_RC" value="AWS::ECS::Service" /></node></node></node></node><node concept="2OqwBi" id="swfLLt6" role="3uHU7w"><node concept="2OqwBi" id="swfLLt6O" role="2Oq$k0"><node concept="30H73N" id="swfLLt6N" role="2Oq$k0" /><node concept="3TrcHB" id="swfLLt6P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swfLLt6M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="swfLLt6L" role="37wK5m"><property role="Xl_RC" value="AWS::ECS::TaskDefinition" /></node></node></node></node><node concept="2OqwBi" id="swfLt7" role="3uHU7w"><node concept="2OqwBi" id="swfLt7O" role="2Oq$k0"><node concept="30H73N" id="swfLt7N" role="2Oq$k0" /><node concept="3TrcHB" id="swfLt7P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swfLt7M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="swfLt7L" role="37wK5m"><property role="Xl_RC" value="AWS::Cognito::" /></node></node></node></node><node concept="2OqwBi" id="swft8" role="3uHU7w"><node concept="2OqwBi" id="swft8O" role="2Oq$k0"><node concept="30H73N" id="swft8N" role="2Oq$k0" /><node concept="3TrcHB" id="swft8P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="swft8M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="swft8L" role="37wK5m"><property role="Xl_RC" value="AWS::SES::" /></node></node></node></node>
             </node>
           </node>
         </node>
@@ -1370,38 +1070,8 @@
           </node>
         </node>
       </node>
-    <node concept="5jKBG" id="Edpaas0118" role="lGtFl"><ref role="v9R2y" node="ctRedCTpaas" resolve="reduce_CFResources_ComponentType_paas" /></node></node>
-    <node concept="VmU4M" id="ctEmit_saas" role="VmU7O">
-      <property role="TrG5h" value="ct_saas" />
-      <ref role="3hVscs" node="cdkSaaS" resolve="SaaS" />
-      <node concept="1WS0z7" id="Edsaas0120" role="lGtFl">
-        <node concept="3JmXsc" id="Edsaas0121" role="3Jn$fo">
-          <node concept="3clFbS" id="Edsaas0122" role="2VODD2">
-            <node concept="3clFbF" id="Edsaas0123" role="3cqZAp">
-              <node concept="2OqwBi" id="Edsaas0124" role="3clFbG">
-                <node concept="30H73N" id="Edsaas0125" role="2Oq$k0" />
-                <node concept="2Rf3mk" id="Edsaas0126" role="2OqNvi">
-                  <node concept="1xMEDy" id="Edsaas0127" role="1xVPHs">
-                    <node concept="chp4Y" id="Edsaas0128" role="ri$Ld">
-                      <ref role="cht4Q" to="xm5l:2pCNWmS2o_0" resolve="CFResources" />
-                    </node>
-                  </node>
-                </node>
-              </node>
-            </node>
-          </node>
-        </node>
-      </node>
-      <node concept="1W57fq" id="Edsaas0129" role="lGtFl">
-        <node concept="3IZrLx" id="Edsaas0130" role="3IZSJc">
-          <node concept="3clFbS" id="Edsaas0131" role="2VODD2">
-            <node concept="3clFbF" id="Edsaas0132" role="3cqZAp">
-              <node concept="22lmx$" id="Ffsaasor1" role="3clFbG"><node concept="2OqwBi" id="Ffsaasb0" role="3uHU7B"><node concept="2OqwBi" id="Ffsaasb0o" role="2Oq$k0"><node concept="30H73N" id="Ffsaasb0n" role="2Oq$k0" /><node concept="3TrcHB" id="Ffsaasb0p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="Ffsaasb0m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="Ffsaasb0l" role="37wK5m"><property role="Xl_RC" value="AWS::Cognito::" /></node></node></node><node concept="2OqwBi" id="Ffsaasb1" role="3uHU7w"><node concept="2OqwBi" id="Ffsaasb1o" role="2Oq$k0"><node concept="30H73N" id="Ffsaasb1n" role="2Oq$k0" /><node concept="3TrcHB" id="Ffsaasb1p" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="Ffsaasb1m" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.startsWith(java.lang.String)" resolve="startsWith" /><node concept="Xl_RD" id="Ffsaasb1l" role="37wK5m"><property role="Xl_RC" value="AWS::SES::" /></node></node></node></node></node>
-          </node>
-        </node>
-      </node>
-    <node concept="5jKBG" id="Edsaas0188" role="lGtFl"><ref role="v9R2y" node="ctRedCTsaas" resolve="reduce_CFResources_ComponentType_saas" /></node></node>
-    <node concept="VmU4M" id="ctEmit_co" role="VmU7O">
+    <node concept="5jKBG" id="Edpaas0118" role="lGtFl"><ref role="v9R2y" node="ctRedCTpaas" resolve="reduce_CFResources_ComponentType_paas" /></node></node><node concept="VmU4M" id="ct_compute" role="VmU7O"><property role="TrG5h" value="ct_compute" /><ref role="3hVscs" node="cdkCompute" resolve="Compute" /><node concept="1WS0z7" id="cmpLoop0" role="lGtFl"><node concept="3JmXsc" id="cmpLoop1" role="3Jn$fo"><node concept="3clFbS" id="cmpLoop2" role="2VODD2"><node concept="3clFbF" id="cmpLoop3" role="3cqZAp"><node concept="2OqwBi" id="cmpLoop4" role="3clFbG"><node concept="30H73N" id="cmpLoop5" role="2Oq$k0" /><node concept="2Rf3mk" id="cmpLoop6" role="2OqNvi"><node concept="1xMEDy" id="cmpLoop7" role="1xVPHs"><node concept="chp4Y" id="cmpLoop8" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /></node></node></node></node></node></node></node></node><node concept="1W57fq" id="cmpIf0" role="lGtFl"><node concept="3IZrLx" id="cmpIf1" role="3IZSJc"><node concept="3clFbS" id="cmpIf2" role="2VODD2"><node concept="3clFbF" id="cmpIf3" role="3cqZAp"><node concept="22lmx$" id="cmpEFor2" role="3clFbG"><node concept="2OqwBi" id="cmpEFLt0" role="3uHU7B"><node concept="2OqwBi" id="cmpEFLt0O" role="2Oq$k0"><node concept="30H73N" id="cmpEFLt0N" role="2Oq$k0" /><node concept="3TrcHB" id="cmpEFLt0P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cmpEFLt0M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cmpEFLt0L" role="37wK5m"><property role="Xl_RC" value="AWS::EC2::Instance" /></node></node></node><node concept="2OqwBi" id="cmpEFt1" role="3uHU7w"><node concept="2OqwBi" id="cmpEFt1O" role="2Oq$k0"><node concept="30H73N" id="cmpEFt1N" role="2Oq$k0" /><node concept="3TrcHB" id="cmpEFt1P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="cmpEFt1M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="cmpEFt1L" role="37wK5m"><property role="Xl_RC" value="AWS::Lambda::Function" /></node></node></node></node></node></node></node></node><node concept="5jKBG" id="cmpRedCall" role="lGtFl"><ref role="v9R2y" node="ctRedCTcompute" resolve="reduce_CFResources_ComponentType_compute" /></node></node>
+        <node concept="VmU4M" id="ctEmit_co" role="VmU7O">
       <property role="TrG5h" value="ct_co" />
       <ref role="3hVscs" node="7uhLk$97QV5" resolve="ContainerPlatform" />
       <node concept="1WS0z7" id="amitLoop_co" role="lGtFl">
@@ -1426,52 +1096,7 @@
         <node concept="3IZrLx" id="amitIfFn_co" role="3IZSJc">
           <node concept="3clFbS" id="amitIfSL_co" role="2VODD2">
             <node concept="3clFbF" id="amitIfST_co" role="3cqZAp">
-              <node concept="22lmx$" id="ctFco0191" role="3clFbG">
-                <node concept="22lmx$" id="ctFco0192" role="3uHU7B">
-                  <node concept="2OqwBi" id="ctFco0194" role="3uHU7B">
-                      <node concept="2OqwBi" id="ctFco0195" role="2Oq$k0">
-                        <node concept="30H73N" id="ctFco0196" role="2Oq$k0" />
-                        <node concept="3TrcHB" id="ctFco0197" role="2OqNvi">
-                          <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                        </node>
-                      </node>
-                      <node concept="liA8E" id="ctFco0198" role="2OqNvi">
-                        <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                        <node concept="Xl_RD" id="ctFco0199" role="37wK5m">
-                          <property role="Xl_RC" value="AWS::ECS::Cluster" />
-                        </node>
-                      </node>
-                    </node>
-                    <node concept="2OqwBi" id="ctFco0206" role="3uHU7w">
-                    <node concept="2OqwBi" id="ctFco0207" role="2Oq$k0">
-                      <node concept="30H73N" id="ctFco0208" role="2Oq$k0" />
-                      <node concept="3TrcHB" id="ctFco0209" role="2OqNvi">
-                        <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                      </node>
-                    </node>
-                    <node concept="liA8E" id="ctFco0210" role="2OqNvi">
-                      <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                      <node concept="Xl_RD" id="ctFco0211" role="37wK5m">
-                        <property role="Xl_RC" value="AWS::EC2::VPC" />
-                      </node>
-                    </node>
-                  </node>
-                </node>
-                <node concept="2OqwBi" id="ctFco0212" role="3uHU7w">
-                  <node concept="2OqwBi" id="ctFco0213" role="2Oq$k0">
-                    <node concept="30H73N" id="ctFco0214" role="2Oq$k0" />
-                    <node concept="3TrcHB" id="ctFco0215" role="2OqNvi">
-                      <ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" />
-                    </node>
-                  </node>
-                  <node concept="liA8E" id="ctFco0216" role="2OqNvi">
-                    <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                    <node concept="Xl_RD" id="ctFco0217" role="37wK5m">
-                      <property role="Xl_RC" value="AWS::EC2::Subnet" />
-                    </node>
-                  </node>
-                </node>
-              </node>
+              <node concept="2OqwBi" id="coEFt0" role="3clFbG"><node concept="2OqwBi" id="coEFt0O" role="2Oq$k0"><node concept="30H73N" id="coEFt0N" role="2Oq$k0" /><node concept="3TrcHB" id="coEFt0P" role="2OqNvi"><ref role="3TsBF5" to="xm5l:2pCNWmS2oLD" resolve="type" /></node></node><node concept="liA8E" id="coEFt0M" role="2OqNvi"><ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" /><node concept="Xl_RD" id="coEFt0L" role="37wK5m"><property role="Xl_RC" value="AWS::ECS::Cluster" /></node></node></node>
             </node>
           </node>
         </node>
@@ -1720,7 +1345,7 @@
           </node>
         </node>
       </node>
-      <node concept="1ZhdrF" id="ctRedCTswP" role="lGtFl"><property role="2qtEX8" value="parentType" /><property role="P3scX" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130361/2877443765335980231" /><node concept="3$xsQk" id="ctRedCTswP1" role="3$ytzL"><node concept="3clFbS" id="ctRedCTswP2" role="2VODD2"><node concept="3clFbF" id="ctRedCTswP3" role="3cqZAp"><node concept="2OqwBi" id="ctRedCTswP4" role="3clFbG"><node concept="1iwH7S" id="ctRedCTswP5" role="2Oq$k0" /><node concept="1iwH70" id="ctRedCTswP6" role="2OqNvi"><ref role="1iwH77" node="cdkLabelSw" resolve="softwareType" /><node concept="2OqwBi" id="ctRedCTswP7" role="1iwH7V"><node concept="30H73N" id="ctRedCTswP8" role="2Oq$k0" /><node concept="2Xjw5R" id="ctRedCTswP9" role="2OqNvi"><node concept="1xMEDy" id="ctRedCTswPa" role="1xVPHs"><node concept="chp4Y" id="ctRedCTswPb" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /></node></node></node></node></node></node></node></node></node></node></node></node><node concept="13MO4I" id="ctRedCTst"><property role="TrG5h" value="reduce_CFResources_ComponentType_st" /><ref role="3gUMe" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /><node concept="VmU4M" id="ctRedCTstC" role="13RCb5"><property role="TrG5h" value="DummyComponentType" /><ref role="3hVscs" node="7uhLk$97QV3" resolve="Storage" /><node concept="raruj" id="ctRedCTstF" role="lGtFl"><ref role="2sdACS" node="cdkLabel002" resolve="componentTypeForResource" /></node><node concept="17Uvod" id="amitName_st" role="lGtFl">
+      <node concept="1ZhdrF" id="ctRedCTswP" role="lGtFl"><property role="2qtEX8" value="parentType" /><property role="P3scX" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130361/2877443765335980231" /><node concept="3$xsQk" id="ctRedCTswP1" role="3$ytzL"><node concept="3clFbS" id="ctRedCTswP2" role="2VODD2"><node concept="3clFbF" id="ctRedCTswP3" role="3cqZAp"><node concept="2OqwBi" id="ctRedCTswP4" role="3clFbG"><node concept="1iwH7S" id="ctRedCTswP5" role="2Oq$k0" /><node concept="1iwH70" id="ctRedCTswP6" role="2OqNvi"><ref role="1iwH77" node="cdkLabelSw" resolve="softwareType" /><node concept="2OqwBi" id="ctRedCTswP7" role="1iwH7V"><node concept="30H73N" id="ctRedCTswP8" role="2Oq$k0" /><node concept="2Xjw5R" id="ctRedCTswP9" role="2OqNvi"><node concept="1xMEDy" id="ctRedCTswPa" role="1xVPHs"><node concept="chp4Y" id="ctRedCTswPb" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /></node></node></node></node></node></node></node></node></node></node></node></node><node concept="13MO4I" id="ctRedCTcompute"><property role="TrG5h" value="reduce_CFResources_ComponentType_compute" /><ref role="3gUMe" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /><node concept="VmU4M" id="cmpRedC" role="13RCb5"><property role="TrG5h" value="DummyComponentType" /><ref role="3hVscs" node="cdkCompute" resolve="Compute" /><node concept="raruj" id="cmpRedF" role="lGtFl"><ref role="2sdACS" node="cdkLabel002" resolve="componentTypeForResource" /></node><node concept="17Uvod" id="cmpRedName" role="lGtFl"><property role="2qtEX9" value="name" /><property role="P4ACc" value="ceab5195-25ea-4f22-9b92-103b95ca8c0c/1169194658468/1169194664001" /><node concept="3zFVjK" id="cmpRedNfn" role="3zH0cK"><node concept="3clFbS" id="cmpRedNsl" role="2VODD2"><node concept="3clFbF" id="cmpRedNst" role="3cqZAp"><node concept="3cpWs3" id="cmpRedNcc" role="3clFbG"><node concept="2OqwBi" id="cmpRedTok" role="3uHU7B"><node concept="30H73N" id="cmpRedTokN" role="2Oq$k0" /><node concept="2qgKlT" id="cmpRedTokM" role="2OqNvi"><ref role="37wK5l" to="q5yv:1F1vbx16Mv1" resolve="getEdmmTechToken" /></node></node><node concept="Xl_RD" id="cmpRedSuf" role="3uHU7w"><property role="Xl_RC" value="-Compute" /></node></node></node></node></node></node><node concept="1ZhdrF" id="cmpRedP" role="lGtFl"><property role="2qtEX8" value="parentType" /><property role="P3scX" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130361/2877443765335980231" /><node concept="3$xsQk" id="cmpRedP1" role="3$ytzL"><node concept="3clFbS" id="cmpRedP2" role="2VODD2"><node concept="3clFbF" id="cmpRedP3" role="3cqZAp"><node concept="2OqwBi" id="cmpRedP4" role="3clFbG"><node concept="1iwH7S" id="cmpRedP5" role="2Oq$k0" /><node concept="1iwH70" id="cmpRedP6" role="2OqNvi"><ref role="1iwH77" node="cdkLabelCompute" resolve="computeType" /><node concept="2OqwBi" id="cmpRedP7" role="1iwH7V"><node concept="30H73N" id="cmpRedP8" role="2Oq$k0" /><node concept="2Xjw5R" id="cmpRedP9" role="2OqNvi"><node concept="1xMEDy" id="cmpRedPa" role="1xVPHs"><node concept="chp4Y" id="cmpRedPb" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /></node></node></node></node></node></node></node></node></node></node></node></node><node concept="13MO4I" id="ctRedCTst"><property role="TrG5h" value="reduce_CFResources_ComponentType_st" /><ref role="3gUMe" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /><node concept="VmU4M" id="ctRedCTstC" role="13RCb5"><property role="TrG5h" value="DummyComponentType" /><ref role="3hVscs" node="7uhLk$97QV3" resolve="Storage" /><node concept="raruj" id="ctRedCTstF" role="lGtFl"><ref role="2sdACS" node="cdkLabel002" resolve="componentTypeForResource" /></node><node concept="17Uvod" id="amitName_st" role="lGtFl">
         <property role="2qtEX9" value="name" />
         <property role="P4ACc" value="ceab5195-25ea-4f22-9b92-103b95ca8c0c/1169194658468/1169194664001" />
         <node concept="3zFVjK" id="2tNameFn_st" role="3zH0cK">
@@ -1825,25 +1450,4 @@
           </node>
         </node>
       </node>
-      <node concept="1ZhdrF" id="Rdpaas0013" role="lGtFl"><property role="2qtEX8" value="parentType" /><property role="P3scX" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130361/2877443765335980231" /><node concept="3$xsQk" id="Rdpaas0014" role="3$ytzL"><node concept="3clFbS" id="Rdpaas0015" role="2VODD2"><node concept="3clFbF" id="Rdpaas0016" role="3cqZAp"><node concept="2OqwBi" id="Rdpaas0017" role="3clFbG"><node concept="1iwH7S" id="Rdpaas0018" role="2Oq$k0" /><node concept="1iwH70" id="Rdpaas0019" role="2OqNvi"><ref role="1iwH77" node="cdkLabelPaas" resolve="paasType" /><node concept="2OqwBi" id="Rdpaas0020" role="1iwH7V"><node concept="30H73N" id="Rdpaas0021" role="2Oq$k0" /><node concept="2Xjw5R" id="Rdpaas0022" role="2OqNvi"><node concept="1xMEDy" id="Rdpaas0023" role="1xVPHs"><node concept="chp4Y" id="Rdpaas0024" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /></node></node></node></node></node></node></node></node></node></node></node></node><node concept="13MO4I" id="ctRedCTsaas"><property role="TrG5h" value="reduce_CFResources_ComponentType_saas" /><ref role="3gUMe" to="xm5l:2pCNWmS2o_0" resolve="CFResources" /><node concept="VmU4M" id="Rdsaas0026" role="13RCb5"><property role="TrG5h" value="DummyComponentType" /><ref role="3hVscs" node="cdkSaaS" resolve="SaaS" /><node concept="raruj" id="Rdsaas0027" role="lGtFl"><ref role="2sdACS" node="cdkLabel002" resolve="componentTypeForResource" /></node><node concept="17Uvod" id="Rdsaas0028" role="lGtFl">
-        <property role="2qtEX9" value="name" />
-        <property role="P4ACc" value="ceab5195-25ea-4f22-9b92-103b95ca8c0c/1169194658468/1169194664001" />
-        <node concept="3zFVjK" id="Rdsaas0029" role="3zH0cK">
-          <node concept="3clFbS" id="Rdsaas0030" role="2VODD2">
-            <node concept="3clFbF" id="Rdsaas0031" role="3cqZAp">
-              <node concept="3cpWs3" id="Rdsaas0032" role="3clFbG">
-                <node concept="2OqwBi" id="Rdsaas0033" role="3uHU7B">
-                  <node concept="30H73N" id="Rdsaas0034" role="2Oq$k0" />
-                  <node concept="2qgKlT" id="Rdsaas0035" role="2OqNvi">
-                    <ref role="37wK5l" to="q5yv:1F1vbx16Mv1" resolve="getEdmmTechToken" />
-                  </node>
-                </node>
-                <node concept="Xl_RD" id="Rdsaas0036" role="3uHU7w">
-                  <property role="Xl_RC" value="-SaaS" />
-                </node>
-              </node>
-            </node>
-          </node>
-        </node>
-      </node>
-      <node concept="1ZhdrF" id="Rdsaas0037" role="lGtFl"><property role="2qtEX8" value="parentType" /><property role="P3scX" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130361/2877443765335980231" /><node concept="3$xsQk" id="Rdsaas0038" role="3$ytzL"><node concept="3clFbS" id="Rdsaas0039" role="2VODD2"><node concept="3clFbF" id="Rdsaas0040" role="3cqZAp"><node concept="2OqwBi" id="Rdsaas0041" role="3clFbG"><node concept="1iwH7S" id="Rdsaas0042" role="2Oq$k0" /><node concept="1iwH70" id="Rdsaas0043" role="2OqNvi"><ref role="1iwH77" node="cdkLabelSaas" resolve="saasType" /><node concept="2OqwBi" id="Rdsaas0044" role="1iwH7V"><node concept="30H73N" id="Rdsaas0045" role="2Oq$k0" /><node concept="2Xjw5R" id="Rdsaas0046" role="2OqNvi"><node concept="1xMEDy" id="Rdsaas0047" role="1xVPHs"><node concept="chp4Y" id="Rdsaas0048" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /></node></node></node></node></node></node></node></node></node></node></node></node></model>
+      <node concept="1ZhdrF" id="Rdpaas0013" role="lGtFl"><property role="2qtEX8" value="parentType" /><property role="P3scX" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130361/2877443765335980231" /><node concept="3$xsQk" id="Rdpaas0014" role="3$ytzL"><node concept="3clFbS" id="Rdpaas0015" role="2VODD2"><node concept="3clFbF" id="Rdpaas0016" role="3cqZAp"><node concept="2OqwBi" id="Rdpaas0017" role="3clFbG"><node concept="1iwH7S" id="Rdpaas0018" role="2Oq$k0" /><node concept="1iwH70" id="Rdpaas0019" role="2OqNvi"><ref role="1iwH77" node="cdkLabelPaas" resolve="paasType" /><node concept="2OqwBi" id="Rdpaas0020" role="1iwH7V"><node concept="30H73N" id="Rdpaas0021" role="2Oq$k0" /><node concept="2Xjw5R" id="Rdpaas0022" role="2OqNvi"><node concept="1xMEDy" id="Rdpaas0023" role="1xVPHs"><node concept="chp4Y" id="Rdpaas0024" role="ri$Ld"><ref role="cht4Q" to="xm5l:2pCNWmS1XOD" resolve="CDKDeploymentModel" /></node></node></node></node></node></node></node></node></node></node></node></node></model>

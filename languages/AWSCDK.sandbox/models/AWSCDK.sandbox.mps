@@ -165,7 +165,8 @@
           <property role="2uok1v" value="VpcId" />
           <ref role="3B8hCG" node="5udW6y$JD$V" />
         </node>
-      <node concept="2uvc4s" id="sbFnSubnet" role="2uomXq"><property role="2uok1v" value="SubnetId" /><ref role="3B8hCG" node="5_qI153HQ2F" /></node></node>
+      <node concept="2uvc4s" id="sbFnSubnet" role="2uomXq"><property role="2uok1v" value="SubnetId" /><ref role="3B8hCG" node="5_qI153HQ2F" /></node>
+        <node concept="2uvc4s" id="sbFnConn1" role="2uomXq"><property role="2uok1v" value="ConnectsTo" /><property role="2uolX_" value="write" /><ref role="3B8hCG" node="5_qI153HPZI" /></node></node>
       <node concept="2uokq5" id="6$KgP9W860x" role="2uolob">
         <property role="2uokk2" value="MyBucket" />
         <property role="2uokeG" value="AWS::S3::Bucket" />

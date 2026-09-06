@@ -197,6 +197,11 @@
       </concept>
       <concept id="2620860285162130372" name="EDMM.structure.Component" flags="ng" index="VmU5f">
         <reference id="2620860285162130373" name="type" index="VmU5e" />
+        <child id="2877443765335994034" name="artifacts" index="VmU4E" />
+      </concept>
+      <concept id="2620860285162130347" name="EDMM.structure.Artifact" flags="ng" index="VmU4D">
+        <property id="5202003258016803148" name="type" index="VmU4C" />
+        <property id="2620860285162130350" name="fileURI" index="VmU4B" />
       </concept>
       <concept id="2620860285162130297" name="EDMM.structure.DeploymentModel" flags="ng" index="VmU7M">
         <child id="2620860285162130303" name="modelEntities" index="VmU7O" />
@@ -212,6 +217,83 @@
       <ref role="30HIoZ" to="xm5l:2pCNWmS2o_0" resolve="CFResources" />
       <node concept="gft3U" id="U5dA2ROkam" role="1lVwrX">
         <node concept="VmU5f" id="U5dA2ROkas" role="gfFT$">
+          <node concept="VmU4D" id="artf01" role="VmU4E">
+            <property role="TrG5h" value="artifact" />
+            <property role="VmU4C" value="" />
+            <property role="VmU4B" value="" />
+            <node concept="1W57fq" id="artf02" role="lGtFl">
+              <node concept="3IZrLx" id="artf03" role="3IZSJc">
+                <node concept="3clFbS" id="artf04" role="2VODD2">
+                  <node concept="3clFbF" id="artf05" role="3cqZAp">
+                    <node concept="3fqX7Q" id="artf06" role="3clFbG">
+                      <node concept="2OqwBi" id="artf07" role="3fr31v">
+                        <node concept="2OqwBi" id="artf08" role="2Oq$k0">
+                          <node concept="30H73N" id="artf09" role="2Oq$k0" />
+                          <node concept="2qgKlT" id="artf10" role="2OqNvi">
+                            <ref role="37wK5l" to="q5yv:artT00" resolve="getArtifactType" />
+                          </node>
+                        </node>
+                        <node concept="liA8E" id="artf11" role="2OqNvi">
+                          <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
+                          <node concept="Xl_RD" id="artf12" role="37wK5m">
+                            <property role="Xl_RC" value="" />
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          <node concept="17Uvod" id="artfN0" role="lGtFl">
+            <property role="2qtEX9" value="name" />
+            <property role="P4ACc" value="ceab5195-25ea-4f22-9b92-103b95ca8c0c/1169194658468/1169194664001" />
+            <node concept="3zFVjK" id="artfN1" role="3zH0cK">
+              <node concept="3clFbS" id="artfN2" role="2VODD2">
+                <node concept="3clFbF" id="artfN3" role="3cqZAp">
+                  <node concept="2OqwBi" id="artfN4" role="3clFbG">
+                    <node concept="30H73N" id="artfN5" role="2Oq$k0" />
+                    <node concept="2qgKlT" id="artfN6" role="2OqNvi">
+                      <ref role="37wK5l" to="q5yv:artU00" resolve="getArtifactUri" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="17Uvod" id="artfT0" role="lGtFl">
+            <property role="2qtEX9" value="type" />
+            <property role="P4ACc" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130347/5202003258016803148" />
+            <node concept="3zFVjK" id="artfT1" role="3zH0cK">
+              <node concept="3clFbS" id="artfT2" role="2VODD2">
+                <node concept="3clFbF" id="artfT3" role="3cqZAp">
+                  <node concept="2OqwBi" id="artfT4" role="3clFbG">
+                    <node concept="30H73N" id="artfT5" role="2Oq$k0" />
+                    <node concept="2qgKlT" id="artfT6" role="2OqNvi">
+                      <ref role="37wK5l" to="q5yv:artT00" resolve="getArtifactType" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="17Uvod" id="artfU0" role="lGtFl">
+            <property role="2qtEX9" value="fileURI" />
+            <property role="P4ACc" value="f14a2376-c0aa-410c-b33a-ef6b7f4e7a0c/2620860285162130347/2620860285162130350" />
+            <node concept="3zFVjK" id="artfU1" role="3zH0cK">
+              <node concept="3clFbS" id="artfU2" role="2VODD2">
+                <node concept="3clFbF" id="artfU3" role="3cqZAp">
+                  <node concept="2OqwBi" id="artfU4" role="3clFbG">
+                    <node concept="30H73N" id="artfU5" role="2Oq$k0" />
+                    <node concept="2qgKlT" id="artfU6" role="2OqNvi">
+                      <ref role="37wK5l" to="q5yv:artU00" resolve="getArtifactUri" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          </node>
           <node concept="VmU4a" id="U5dA2ROn5x" role="VmU4F">
             <property role="VmU49" value="dummy_key" />
             <property role="VmU4f" value="dummy_value" />

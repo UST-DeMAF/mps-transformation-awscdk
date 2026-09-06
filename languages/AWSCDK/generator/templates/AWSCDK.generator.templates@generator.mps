@@ -1444,7 +1444,7 @@
                   </node>
                 </node>
                 <node concept="Xl_RD" id="Rdpaas0012" role="3uHU7w">
-                  <property role="Xl_RC" value="-PaaS" />
+                  <property role="Xl_RC" value="-Platform" />
                 </node>
               </node>
             </node>

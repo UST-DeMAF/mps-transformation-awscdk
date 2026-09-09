@@ -162,6 +162,26 @@
             </node>
           </node>
         </node>
+        <node concept="3clFbJ" id="iotr01" role="3cqZAp">
+          <node concept="3clFbS" id="iotr02" role="3clFbx">
+            <node concept="3cpWs6" id="iotr03" role="3cqZAp">
+              <node concept="Xl_RD" id="iotr04" role="3cqZAk">
+                <property role="Xl_RC" value="MessageBroker" />
+              </node>
+            </node>
+          </node>
+          <node concept="2OqwBi" id="iotr05" role="3clFbw">
+            <node concept="37vLTw" id="iotr06" role="2Oq$k0">
+              <ref role="3cqZAo" node="1F1vbx158sb" resolve="t" />
+            </node>
+            <node concept="liA8E" id="iotr07" role="2OqNvi">
+              <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
+              <node concept="Xl_RD" id="iotr08" role="37wK5m">
+                <property role="Xl_RC" value="AWS::IoT::TopicRule" />
+              </node>
+            </node>
+          </node>
+        </node>
         <node concept="3clFbJ" id="msvc01" role="3cqZAp">
           <node concept="3clFbS" id="msvc02" role="3clFbx">
             <node concept="3cpWs6" id="msvc03" role="3cqZAp">

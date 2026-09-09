@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <model ref="r:9deb376a-037d-4e18-9904-34f7dbf549c1(AWSCDK.sandbox)">
   <persistence version="9" />
   <languages>
@@ -42,6 +42,19 @@
       <property role="2uokQA" value="2323" />
       <property role="2uokNK" value="2323" />
       <property role="2uokAT" value="2332" />
+      <node concept="2uokq5" id="2DzFKFjvrB_" role="2uolob">
+        <property role="2uokk2" value="MyTopicRule" />
+        <property role="2uokeG" value="AWS::IoT::TopicRule" />
+        <node concept="2uok62" id="2DzFKFjvrCn" role="2uomXq">
+          <property role="2uok1v" value="Sql" />
+          <property role="2uolX_" value="SELECT * FROM 'devices/+/telemetry'" />
+        </node>
+        <node concept="2uvc4s" id="2DzFKFjvrEF" role="2uomXq">
+          <property role="2uok1v" value="ConnectsTo" />
+          <property role="2uolX_" value="write" />
+          <ref role="3B8hCG" node="5_qI153HQ0T" />
+        </node>
+      </node>
       <node concept="2uokq5" id="5_qI153HQ2F" role="2uolob">
         <property role="2uokk2" value="MySubnet" />
         <property role="2uokeG" value="AWS::EC2::Subnet" />
@@ -137,7 +150,11 @@
       <node concept="2uokq5" id="5udW6y$JD$V" role="2uolob">
         <property role="2uokk2" value="MyVPC" />
         <property role="2uokeG" value="AWS::EC2::VPC" />
-      <node concept="2uok62" id="sbVpcCidr" role="2uomXq"><property role="2uok1v" value="CidrBlock" /><property role="2uolX_" value="10.0.0.0/16" /></node></node>
+        <node concept="2uok62" id="sbVpcCidr" role="2uomXq">
+          <property role="2uok1v" value="CidrBlock" />
+          <property role="2uolX_" value="10.0.0.0/16" />
+        </node>
+      </node>
       <node concept="2uokq5" id="6$KgP9W861l" role="2uolob">
         <property role="2uokk2" value="MyFunction" />
         <property role="2uokeG" value="AWS::Lambda::Function" />
@@ -165,8 +182,16 @@
           <property role="2uok1v" value="VpcId" />
           <ref role="3B8hCG" node="5udW6y$JD$V" />
         </node>
-      <node concept="2uvc4s" id="sbFnSubnet" role="2uomXq"><property role="2uok1v" value="SubnetId" /><ref role="3B8hCG" node="5_qI153HQ2F" /></node>
-        <node concept="2uvc4s" id="sbFnConn1" role="2uomXq"><property role="2uok1v" value="ConnectsTo" /><property role="2uolX_" value="write" /><ref role="3B8hCG" node="5_qI153HPZI" /></node></node>
+        <node concept="2uvc4s" id="sbFnSubnet" role="2uomXq">
+          <property role="2uok1v" value="SubnetId" />
+          <ref role="3B8hCG" node="5_qI153HQ2F" />
+        </node>
+        <node concept="2uvc4s" id="sbFnConn1" role="2uomXq">
+          <property role="2uok1v" value="ConnectsTo" />
+          <property role="2uolX_" value="write" />
+          <ref role="3B8hCG" node="5_qI153HPZI" />
+        </node>
+      </node>
       <node concept="2uokq5" id="6$KgP9W860x" role="2uolob">
         <property role="2uokk2" value="MyBucket" />
         <property role="2uokeG" value="AWS::S3::Bucket" />
@@ -217,3 +242,4 @@
     </node>
   </node>
 </model>
+

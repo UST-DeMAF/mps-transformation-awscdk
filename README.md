@@ -23,3 +23,8 @@ To open the project in MPS execute
 ```
 ./gradlew openProjectInMps
 ```
+
+## Mapping
+
+The AWS services to EDMM mapping of every supported CloudFormation resource type is listed in
+[`docs/aws-edmm-mapping.csv`](docs/aws-edmm-mapping.csv).
